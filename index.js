@@ -1,7 +1,7 @@
 // type conversion = change the datatype of a value to another
 //                   (strings, numbers, booleans)
 
-let x = "burger";
+let x = "pizza";
 let y = "pizza";
 let z = "pizza";
 
