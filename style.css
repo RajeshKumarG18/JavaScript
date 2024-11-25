@@ -1,4 +1,10 @@
-#countLabe1{
+#countLabel1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#countLabel2{
     display: block;
     text-align: center;
     font-size: 10em;
